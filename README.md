@@ -5,11 +5,11 @@ Este repositório tem como objetivo reunir implementações de **modelos de Mach
 Cada pasta corresponde a um modelo diferente, contendo código e o dataset.
 
 
-## 📌 Regressão Linear
+## [Regressão Linear](https://github.com/Thiciane-s/Machine-learning-models/tree/main/Regress%C3%A3o)
 
 O primeiro modelo implementado é a **Regressão Linear Simples**, aplicada ao dataset de salários em função dos anos de experiência.
 
-### 🎯 Objetivo
+### Objetivo
 
 - Implementar a regressão linear **do zero**, usando apenas Python e pandas  
 - Comparar os resultados com a implementação do **Scikit-Learn**  
@@ -17,7 +17,7 @@ O primeiro modelo implementado é a **Regressão Linear Simples**, aplicada ao d
 
 ---
 
-## 🧮 Fórmulas Utilizadas
+## Fórmulas Utilizadas
 
 Coeficiente angular:
 
@@ -39,7 +39,7 @@ Predição:
 
 ---
 
-## 📏 Métricas de Avaliação
+## Métricas de Avaliação
 
 - **RMSE** – Raiz do Erro Quadrático Médio  
 - **R²** – Coeficiente de Determinação
@@ -48,7 +48,7 @@ As métricas dos dois modelos são comparadas em um DataFrame.
 
 ---
 
-## 📈 Visualização
+## Visualização
 
 O gráfico gerado apresenta:
 
