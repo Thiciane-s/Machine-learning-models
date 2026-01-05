@@ -21,21 +21,21 @@ O primeiro modelo implementado é a **Regressão Linear Simples**, aplicada ao d
 
 Coeficiente angular:
 
-\[
+$
 b_1 = \frac{\sum (x_i - \bar{x})(y_i - \bar{y})}{\sum (x_i - \bar{x})^2}
-\]
+$
 
 Intercepto:
 
-\[
+$
 b_0 = \bar{y} - b_1 \bar{x}
-\]
+$
 
 Predição:
 
-\[
+$
 \hat{y} = b_0 + b_1 x
-\]
+$
 
 ---
 
